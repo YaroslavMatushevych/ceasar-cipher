@@ -1,0 +1,25 @@
+.caesarCipherForm {
+    background: #111;
+    border-radius: 5px;
+    padding: 50px;
+    margin: 0 auto;
+    width: 300px;
+}
+
+.shiftControls {
+    display: flex;
+    justify-content: space-between;
+}
+
+.shiftValue {
+    margin: 0 auto;
+    font-size: 30pt;
+    text-align: center;
+    color: white;
+}
+
+.cipheredText {
+    width: 100%;
+    font-family: "Segoe UI Semibold";
+    color: #333;
+}
